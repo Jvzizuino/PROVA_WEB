@@ -1,0 +1,11 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #c0c0c0;
+}
+
+.container {
+    max-width: 900px;
+    border: 1px solid #6c757d;
+    padding: 30px;
+    background-color: #eeecec;
+}
